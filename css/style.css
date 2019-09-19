@@ -1,0 +1,44 @@
+.container{
+	width: 1140px;
+	float: left;
+	margin: 0 auto;
+}
+.logo-section{
+	width: 100%;
+    float: left;
+	padding: 15px 0px;
+	background-color: #F6F9F9;
+}
+.logo-top {
+    width: 30%;
+
+    padding: 0px 122px;
+}
+.logo-img {
+	max-width: 100%;
+	display: block;
+}
+.title-section{
+	text-align: center;
+	color: #fff;
+	width: 100%;
+	float: left;
+	background-image: url("../img/header_bg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.title-section h1 {
+    font-size: 3.5rem;
+    padding: 193px 0px 30px 0px;
+}
+.underline{
+	border-bottom: 1px solid #2C7BB0;
+	display: block;
+	margin: 20px 0px;
+}
+.btn-call{
+	background: transparent;
+	border: 1px solid #2C7BB0;
+	color: #fff;
+
+}
